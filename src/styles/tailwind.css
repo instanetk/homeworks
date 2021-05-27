@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='text'],
+input[type='password'],
+input[type='email'],
+input[type='number'],
+input[type='url'],
+input[type='date'],
+input[type='datetime-local'],
+input[type='month'],
+input[type='week'],
+input[type='time'],
+input[type='search'],
+input[type='tel'],
+select,
+select[multiple],
+textarea {
+  @apply rounded-lg bg-gray-300 border-none text-gray-600 placeholder-gray-400 focus:outline-none focus:bg-gray-200 focus:text-gray-900 focus:ring-1 text-base sm:text-sm;
+}
+
+input[type='number'] {
+  @apply bg-gray-100 text-lg font-semibold;
+}
+
+input[type='checkbox'] {
+  @apply h-6 w-6 rounded-sm bg-gray-300 border-none text-indigo-500;
+}
+
+input[type='radio'] {
+  @apply h-6 w-6 bg-gray-900 border-none text-indigo-500;
+}
+
+.menu {
+  @apply flex flex-col justify-center items-center select-none text-white hover:text-indigo-400 sm:mt-6 sm:-mr-2 sm:flex-row sm:hover:bg-gray-900 sm:rounded-md sm:justify-start sm:ml-2 sm:items-center sm:py-2 sm:px-4 cursor-pointer;
+}
+
+.active {
+  @apply text-indigo-400 sm:mt-6 sm:-mr-2 sm:flex-row sm:bg-gray-900 sm:rounded-md sm:justify-start sm:ml-2 sm:items-center sm:py-2 sm:px-4;
+}

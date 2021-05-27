@@ -1,0 +1,224 @@
+{
+  "navBar": {
+    "app": "HomeWorks",
+    "company": ""
+  },
+  "cat": {
+    "coverings": "Pisos y Revestimientos",
+    "landscape": "Jardinería e Irrigación",
+    "remodel": "Adiciones y Remodelaciones",
+    "painting": "Pintura",
+    "cleaning": "Limpieza",
+    "plumbing": "Plomería",
+    "pavers": "Pavimentos y Piedras",
+    "granite": "Superficies de Granito y Cuarzo",
+    "pool": "Servicio de Piscina",
+    "misc": "Misceláneos"
+  },
+  "services": {
+    "services": "Busque su servicio...",
+    "bathroom": "Remodelación de Baños",
+    "kitchen": "Remodelación de Cocina",
+    "tiles": "Instalación de Losas",
+    "laminate": "Pisos de Madera y Laminado",
+    "carpet": "Instalación de Alfombras",
+    "carpetclean": "Limpieza de Alfombras",
+    "handyman": "Servicios de Reparación",
+    "electrical": "Electricidad Menor",
+    "cleaning": "Limpieza (Una vez)",
+    "backsplash": "Backsplash",
+    "landscaping": "Jardinería",
+    "irrigation": "Irrigación"
+  },
+  "hero": {
+    "1": "Proyectos del hogar ",
+    "2": "y renovaciones",
+    "tagline": "Desde el 2000 HomeWorks ha sido la elección para renovaciones del hogar en Florida Central.",
+    "button": "Programar una cita"
+  },
+  "testimonial": {
+    "text": "Mi casa se siente como nueva luego que HomeWorks renovara mi cocina y baños. Fueron honestos, amables y profecionales. ¡Se los remendaria a quien sea!",
+    "write": "Escribe un testimonio"
+  },
+  "review": {
+    "title": "Comparte tu experiencia con nosotros...",
+    "name": "Nombre",
+    "email": "E-mail",
+    "placeholder": "Redacta tu testimonio",
+    "word": "palabra",
+    "words": "palabras",
+    "send": "Enviar"
+  },
+  "testimonyThanks": {
+    "thankyou": "¡Gracias!",
+    "tagline": "¡Su buena palabra lo es todo para nosotros!"
+  },
+  "home": {
+    "pill1": "¡Estimados Gratis en nuevas instalaciones!",
+    "pill2": "$40",
+    "category": "Buscar por categoría",
+    "services": "Servicios populares",
+    "p": {
+      "1": "Por más de una década HomeWorks ha brindado servicios profesionales de remodelación a nuestros clientes en el área de Florida Central. A lo largo de los años, hemos tenido el privilegio de servir a cientos de hogares, empresas y clientes, que van desde la instalación de losas y pisos, remodelación de baños, jardinería, irrigación y más...",
+      "2": "Nuestra calidad de servicio siempre ha sido superior, pero nuestro oficio sigue evolucionado. Queremos compartir nuestro conocimiento y experiencia en el campo para ayudar a nuestros clientes a tomar decisiones rentables y crear los hermosos y duraderos resultados que han imaginado, utilizando sólo herramientas de última generación, materiales de primera calidad y las mejores prácticas de la industria.",
+      "3": "Nuestra filosofía continua a la vanguardia de nuestro trabajo y crecimiento. Ir más allá de las expectativas de nuestros clientes y ganar sus valiosos testimonios y referencias. Agradecemos a todos nuestros clientes quienes nos han recomendado a sus amigos y familiares. Nos comprometemos a entregar nuestro mejor trabajo y mantener la buena palabra que nos han dado.",
+      "4": "Déjenos ganar su negocio programando una llamada telefónica para un presupuesto gratuito en nuevas instalaciones, o elija un tipo de trabajo en las categorías que se encuentran arriba para",
+      "4-span": "comenzar ahora"
+    },
+    "button": "Toca para llamar"
+  },
+  "menu": {
+    "services": "Servicios",
+    "schedule": "Horarios",
+    "pinboard": "Inspiración",
+    "testimonials": "Testimonios",
+    "account": "Iniciar sesión"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Contraseña",
+    "remember": "Recuérdame",
+    "button": "Ingresar",
+    "forgot": "¿Olvidó su contraseña?",
+    "register": "Crear nueva cuenta"
+  },
+  "register": {
+    "tagline": "Nos alegra tenerte aquí...",
+    "name": "Nombre",
+    "fullname": "Nombre Completo",
+    "email": "Email",
+    "password": "Contraseña",
+    "zip": "Código Postal / Zip Code",
+    "phone": "Teléfono",
+    "marketing": "Envíame tips y sugerencias de expertos",
+    "create": "Crear una cuenta",
+    "legal": "Al seleccionar 'Crear una cuenta' está aceptando los Términos y la declaración de Privacidad de HomeWorks™ y HomeWorks, LLC."
+  },
+  "footer": {
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "legal": "Legal",
+    "providers": "Proveedores",
+    "company": "HomeWorks, LLC",
+    "made": "Hecho en Orlando, FL"
+  },
+  "user": {
+    "logout": "Cerrar sesión"
+  },
+  "secondaryHero": {
+    "tagline": "Seleccione el servicio que desea entre los siguientes:",
+    "tagline2": "Pedir cita para estimado:"
+  },
+  "coverings": {
+    "1": "Pisos y ",
+    "2": "Revestimientos",
+    "text": "La elección de un piso establece el ambiente de su diseño interior. Desde la firmeza y el carácter abierto de los suelos de cerámica y porcelana hasta la acogedora calidez de la madera y el laminado, usted puede elegir el revestimiento adecuado para los diferentes espacios de su casa; ya sea las zonas de estar, los dormitorios o exteriores."
+  },
+  "irrigation": {
+    "1": "Jardinería e ",
+    "2": "Irrigación",
+    "text": "El secreto de un césped verde y bonito comienza con su cuidado. Somos expertos en riego. Esta es la clave subyacente para el diseño y el mantenimiento de un hermoso paisaje. Después de medir el área, elaboraremos un diseño para su sistema de riego y cotizaremos los materiales y la tecnología necesarios para mantenerlo bajo las regulaciones de la ciudad y el condado; perfectamente programado durante cada estación del año. Comienza rellenando el siguiente formulario de solicitud. Déjenos crear el jardín de sus sueños..."
+  },
+  "painting": {
+    "1": "Pintura",
+    "text": "A veces los pequeños detalles son lo que cuentan. Una nueva paleta de colores puede marcar la diferencia entre lo cálido y acogedor o lo abierto y espacioso. Sabiendo que puede contar con nosotros para aportar nuestra profesionalidad y el máximo cuidado meticuloso para su hogar, puede confiar en nosotros para traer nuevos colores a su vida. Rellene el siguiente formulario y háganos saber cuándo sería un buen momento para proporcionarle un presupuesto."
+  },
+  "cleaning": {
+    "1": "Limpieza",
+    "text": ""
+  },
+  "plumbing": {
+    "1": "Plomería",
+    "text": ""
+  },
+  "pavers": {
+    "1": "Pavimentos y ",
+    "2": "Piedras",
+    "text": "Pocas cosas añaden carácter y belleza como los ladrillos y las piedras. Tal vez sea un camino en su jardín, tal vez sea su entrada al estacionamiento. Desde la elección de un color y un patrón de diseño, hasta la colocación de cada bloque lado a lado, le guiaremos en cada paso del camino para desvelar el verdadero potencial de sus exteriores. Rellene el siguiente formulario y háganos saber cuándo sería un buen momento para proporcionarle un presupuesto."
+  },
+  "granite": {
+    "1": "Superficies de ",
+    "2": "Granito",
+    "text": "La belleza de la naturaleza no puede ser igualada. Millones de años en el corazón de las montañas, el granito es una de las piedras más bellas y procuradas a lo largo de la historia de la humanidad. Se forma de la magma, la roca derretida cerca del núcleo del planeta. Las diferentes composiciones químicas en todo el mundo son las que dan lugar a los cientos de diseños y colores diferentes que existen. Exótico y semiprecioso, el granito vale cada onza de su peso. Debido a que cada superficie de granito debe ser hecha a la medida, cortada y pulida, es imperativo medir y dibujar cuidadosamente las áreas que cubrirá primero. Durante esta cita, le preguntaremos su preferencia de un borde redondeado o biselado y le daremos una referencia de tiempo para cuando estaría listo para la instalación. Sólo tiene que rellenar el siguiente formulario para empezar y le programaremos una visita."
+  },
+  "pool": {
+    "1": "Servicio de ",
+    "2": "Piscina",
+    "text": "Agua azul y limpia. Mantener el equilibrio adecuado del pH y el sistema de filtración correcto es todo lo que se necesita para mantener su piscina clara y saludable. Lo más importante es su mantenimiento puntual y rutinario. Su piscina necesita el cuidado de profesionales que comprendan el cuidadoso equilibrio necesario para mantener el agua de su piscina limpia y saludable. Para los tiempos de alegría que se avecinan, rellene el formulario y hablemos de sus necesidades actuales."
+  },
+  "misc": {
+    "1": "Misceláneos",
+    "text": ""
+  },
+  "tileInstallation": {
+    "1": "Instalación de ",
+    "2": "Losas"
+  },
+  "laminateInstallation": {
+    "1": "Pisos de Madera",
+    "2": " y Laminado"
+  },
+
+  "carpetInstallation": {
+    "1": "Instalación de ",
+    "2": "Alfombras"
+  },
+  "backsplash": {
+    "1": "Backsplash "
+  },
+  "carpetCleaning": {
+    "1": "Limpieza de ",
+    "2": "Alfombras"
+  },
+  "oneTimeCleaning": {
+    "1": "Limpieza ",
+    "2": "(una vez)"
+  },
+  "handyman": {
+    "1": "Servicios de ",
+    "2": "Reparación"
+  },
+  "minorElectrical": {
+    "1": "Electricidad ",
+    "2": "Menor"
+  },
+  "bathroomRemodel": {
+    "1": "Remodelación ",
+    "2": "de Baños"
+  },
+  "kitchenRemodel": {
+    "1": "Remodelación ",
+    "2": "de Cocina"
+  },
+  "srvIrrigation": {
+    "1": "Irrigación"
+  },
+  "srvLandscape": {
+    "1": "Jardinería"
+  },
+  "pinboard": {
+    "h1": "Comienza con un poco de inspiración..."
+  },
+  "testimonials": {
+    "h1": "Testimonios",
+    "tagline": "Vea por sí mismo(a) lo que nuestros clientes dicen de nosotros...",
+    "button": "Deje Su Testimonio"
+  },
+  "serviceAddress": {
+    "title": "Solicitar un presupuesto",
+    "name": "Nombre:",
+    "fullname": "Nombre Completo",
+    "phone": "Teléfono:",
+    "email": "E-mail:",
+    "address": "Dirección para Servicio:",
+    "date": "Fecha Preferida:",
+    "note": "Nota:",
+    "button": "Programar Cita de Estimado",
+    "placeholder_note": "Si desea puede escribir una nota",
+    "placeholder_email": "correo@electronico.com"
+  },
+  "thankYou": {
+    "h1": "¡Gracias!",
+    "p": "Estaremos en contacto próximamente para confirmar su cita."
+  }
+}

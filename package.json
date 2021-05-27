@@ -1,0 +1,77 @@
+{
+  "name": "ggs",
+  "version": "0.9.6",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@craco/craco": "^5.9.0",
+    "@react-google-maps/api": "^2.0.2",
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "@types/googlemaps": "^3.43.0",
+    "@wojtekmaj/react-daterange-picker": "^3.0.0",
+    "autoprefixer": "^9.8.6",
+    "axios": "^0.21.0",
+    "cloudinary-react": "^1.6.8",
+    "detect-browser-language": "0.0.2",
+    "file-loader": "^6.2.0",
+    "i18next": "^19.8.4",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "joi-browser": "^13.4.0",
+    "jwt-decode": "^3.1.2",
+    "node-sass": "^4.14.1",
+    "postcss": "^7.0.35",
+    "query-string": "^6.13.7",
+    "react": "^17.0.1",
+    "react-calendar": "^3.3.0",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^17.0.1",
+    "react-i18next": "^11.8.4",
+    "react-pinboard": "0.0.9",
+    "react-responsive-carousel": "^3.2.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-toastify": "^6.2.0",
+    "react-usestateref": "^1.0.4",
+    "socket.io-client": "^3.1.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+    "typescript": "^4.1.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build:a": "NODE_ENV=production npx tailwindcss-cli@latest build src/styles/tailwind.css -o src/styles/main.css",
+    "build:b": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject",
+    "build:css": "postcss src/style/tailwind.css -o src/style/main.css",
+    "build:watch": "postcss src/style/tailwind.css -o src/style/main.css --watch"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "tailwindcss-textshadow": "^2.1.3"
+  }
+}

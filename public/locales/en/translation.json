@@ -1,0 +1,223 @@
+{
+  "navBar": {
+    "app": "HomeWorks",
+    "company": ""
+  },
+  "cat": {
+    "coverings": "Floors & Coverings",
+    "landscape": "Landscape & Irrigation",
+    "remodel": "Additions & Remodels",
+    "painting": "Painting",
+    "cleaning": "Cleaning",
+    "plumbing": "Plumbing",
+    "pavers": "Pavers & Stones",
+    "granite": "Countertops",
+    "pool": "Pool Service",
+    "misc": "Miscellaneous"
+  },
+  "services": {
+    "services": "Find your service...",
+    "bathroom": "Bathroom Renovation",
+    "kitchen": "Kitchen Renovation",
+    "tiles": "Tile Installation",
+    "laminate": "Hardwood & Laminate Floors",
+    "carpet": "Carpet Installation",
+    "carpetclean": "Carpet Cleaning",
+    "handyman": "Handyman Services",
+    "electrical": "Minor Electrical",
+    "cleaning": "One-Time Cleaning",
+    "backsplash": "Backsplash",
+    "landscaping": "Landscaping",
+    "irrigation": "Irrigation"
+  },
+  "hero": {
+    "1": "Home projects and ",
+    "2": "remodeling services",
+    "tagline": "HomeWorks has been the choice for home renovation customers in Central Florida since 2000",
+    "button": "Book an appointement"
+  },
+  "testimonial": {
+    "text": "My home feels like new after HomeWorks renovated my kitchen and bathrooms. They were honest, kind and professional. I would recommend them to anyone!",
+    "write": "Write a testimonial"
+  },
+  "review": {
+    "title": "Share your experience with us...",
+    "name": "Name",
+    "email": "E-mail",
+    "placeholder": "Write your testimonial",
+    "word": "word",
+    "words": "words",
+    "send": "Send"
+  },
+  "testimonyThanks": {
+    "thankyou": "Thank you!",
+    "tagline": "Your good word means everything to us!"
+  },
+  "home": {
+    "pill1": "Free Estimates on New Installations!",
+    "pill2": "$40",
+    "category": "Browse by category",
+    "services": "Popular services",
+    "p": {
+      "1": "For over a decade HomeWorks has brought professional remodeling services to our customers in the Central Florida area. Over the years, we’ve had the privilege of serving hundreds of family homes, businesses and customers, ranging from tile and flooring installation, bathroom remodeling, landscaping, irrigation, gardening and more...",
+      "2": "Our quality of service has always been superior, but our craft has evolved. We are passionate to share our knowledge and expertise in the field to help our customers make cost effective decisions and create the beautiful long-lasting results they've envisioned — using only state-of-the-art tools, premium quality materials and the best practices in the industry.",
+      "3": "Our philosophy remains at the forefront of our work and growth. To go above and beyond our customer expectations and earn their valued testimony and referrals. We are grateful to all our customers who have referred us to their friends and family. We promise to deliver our best work and keep up the good word you have put for us!",
+      "4": "Let us earn your business by scheduling a phone call for a free estimate on new installations, or choose a job type from the categories above to",
+      "4-span": "begin now"
+    },
+    "button": "Tap to call"
+  },
+  "menu": {
+    "services": "Services",
+    "schedule": "Schedule",
+    "pinboard": "Pinboard",
+    "testimonials": "Testimonials",
+    "account": "My account"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "button": "Sign In",
+    "forgot": "Forgot password?",
+    "register": "Create new account"
+  },
+  "register": {
+    "tagline": "We're glad to have you here...",
+    "name": "Name",
+    "fullname": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "zip": "Zip Code",
+    "phone": "Phone",
+    "marketing": "Send me expert tips and suggestions",
+    "create": "Create an account",
+    "legal": "By selecting 'Create an Account' you are agreeing to the HomeWorks™ and HomeWorks, LLC Terms and Privacy statement."
+  },
+  "footer": {
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "legal": "Legal",
+    "providers": "Providers",
+    "company": "HomeWorks, LLC",
+    "made": "Made in Orlando, FL"
+  },
+  "user": {
+    "logout": "Logout"
+  },
+  "secondaryHero": {
+    "tagline": "Select the service you are seeking from the choices below:",
+    "tagline2": "Request an appointment for an estimate:"
+  },
+  "coverings": {
+    "1": "Floors & ",
+    "2": "Coverings",
+    "text": "The choice of flooring sets the stage for the atmosphere of your interior design. From the firmness and openness of ceramic and porcelain tile floors to the warmth and coziness of hardwood and laminate, you can choose the right covering to go for the different spaces of your home; whether it be the living areas, bedrooms, or exteriors."
+  },
+  "irrigation": {
+    "1": "Landscape & ",
+    "2": "Irrigation",
+    "text": "The secret for beautiful green lawns begin with its care. We are irrigation experts. This is the underlying key for beautiful landscaping design and maintenance. After a survey of the area, we will craft a design for your irrigation system and quote for the required materials and technology to keep it under city and county regulations; perfectly timed during every season of the year. Begin by filling the request form below. Let us create the garden of your dreams... "
+  },
+  "painting": {
+    "1": "Painting",
+    "text": "Sometimes the little things are all that counts. A new color palette can make the difference between warm and cozy or open and spacious. Knowing you can count on us to bring our professionalism and utmost meticulous care for your home, you can trust us to bring new colors into your life. Fill the form below and let us know when it would be a good time to provide you with a quote."
+  },
+  "cleaning": {
+    "1": "Cleaning",
+    "text": ""
+  },
+  "plumbing": {
+    "1": "Plumbing",
+    "text": ""
+  },
+  "pavers": {
+    "1": "Pavers & ",
+    "2": "Stones",
+    "text": "Few things add character and beauty as pavers and stones. Maybe it is a path in your garden, maybe it is your driveway. From choosing a color and design pattern, to laying each brick side by side, we will guide you every step of the way to unveil the true potential of your exteriors. Fill the form below and let us know when it would be a good time to provide you with a quote."
+  },
+  "granite": {
+    "1": "Granite ",
+    "2": "Countertops",
+    "text": "The beauty of nature cannot be matched. Millions of years inside the heart of mountains, granite is one of the most beautiful and sought stone throughout human history. It forms from magma, the molten rock near the core of the planet. Different chemical compositions throughout the world is what makes for the hundreds of different patterns and colors that are available. Exotic and semiprecious, granite is worth every ounce of its weight. Because each granite surface must be custom made, cut, and polished, it is imperative to carefully measure and draw the areas it will cover first. During this appointment, we will ask for your preference of a rounded or beveled edge and give you a time reference for when it would be ready for installation. Just fill the form below to begin and we will schedule a visit for you."
+  },
+  "pool": {
+    "1": "Pool ",
+    "2": "Services",
+    "text": "Blue, clean water. Maintaining the proper pH balance and the right filtration system is all that is needed to keep your pool water clear and healthy. Most importantly, its timely and routine upkeep. Your pool needs the care of professionals who understand the careful balance required to maintain it clean and healthy. For the joyful times ahead, fill out the form below and let's talk of your current needs."
+  },
+  "misc": {
+    "1": "Miscellaneous",
+    "text": ""
+  },
+  "tileInstallation": {
+    "1": "Tile ",
+    "2": "Installation"
+  },
+  "laminateInstallation": {
+    "1": "Hardwood & ",
+    "2": "Laminate Floors"
+  },
+  "carpetInstallation": {
+    "1": "Carpet ",
+    "2": "Installation"
+  },
+  "backsplash": {
+    "1": "Backsplash "
+  },
+  "carpetCleaning": {
+    "1": "Carpet ",
+    "2": "Cleaning"
+  },
+  "oneTimeCleaning": {
+    "1": "One-Time ",
+    "2": "Cleaning"
+  },
+  "handyman": {
+    "1": "Handyman ",
+    "2": "Services"
+  },
+  "minorElectrical": {
+    "1": "Minor ",
+    "2": "Electrical"
+  },
+  "bathroomRemodel": {
+    "1": "Bathroom ",
+    "2": "Renovation"
+  },
+  "kitchenRemodel": {
+    "1": "Kitchen ",
+    "2": "Renovation"
+  },
+  "srvIrrigation": {
+    "1": "Irrigation"
+  },
+  "srvLandscape": {
+    "1": "Landscaping"
+  },
+  "pinboard": {
+    "h1": "Begin with a little inspiration..."
+  },
+  "testimonials": {
+    "h1": "Testimonials",
+    "tagline": "See for yourself what our customer say about us...",
+    "button": "Leave Your Testimony"
+  },
+  "serviceAddress": {
+    "title": "Request an estimate",
+    "name": "Name:",
+    "fullname": "Full Name",
+    "phone": "Phone:",
+    "email": "E-mail:",
+    "address": "Service Address:",
+    "date": "Preferred Date",
+    "note": "Note:",
+    "button": "Request Estimate Appointment",
+    "placeholder_note": "Would you like to tell us more?",
+    "placeholder_email": "you@example.com"
+  },
+  "thankYou": {
+    "h1": "Thank you!",
+    "p": "We will be in touch shortly to confirm your appointment."
+  }
+}
