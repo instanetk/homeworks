@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import StepThree from './common/tour/step3';
 
 const styles = {
   mainDiv: 'sm:flex justify-center items-center px-4 sm:px-20 sm:flex-shrink-0',
@@ -27,6 +28,7 @@ const ThankYou = () => {
           <h1 className={styles.h1}>{t('thankYou.h1')}</h1>
         </div>
         <p className={styles.p}>{t('thankYou.p')}</p>
+        <StepThree />
       </div>
     </div>
   );

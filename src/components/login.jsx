@@ -9,7 +9,8 @@ import img from '../services/imgService';
 const Login = ({ location }) => {
   const { t } = useTranslation();
 
-  const [form, setState] = useState({ email: '', password: '' });
+  const [form, setState] = useState({ email: 'demo@davidquintero.dev', password: 'BCTW6xGjxCCZQGkVr' });
+  // For this demo app, since I am not showcasing cybersecurity precautions, I am hardcoding the demo credentials.
   const [error, setError] = useState({});
 
   const updateField = (e) => {
@@ -69,6 +70,7 @@ const Login = ({ location }) => {
                       className="px-3 py-3 placeholder-gray-200 text-gray-200 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
                       placeholder={t('login.email')}
                       style={{ transition: 'all .15s ease' }}
+                      value="demo@davidquintero.dev"
                     />
                   </div>
 
@@ -83,6 +85,7 @@ const Login = ({ location }) => {
                       className="px-3 py-3 placeholder-gray-200 text-gray-100 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
                       placeholder={t('login.password')}
                       style={{ transition: 'all .15s ease' }}
+                      value="**********************"
                     />
                   </div>
                   <div>
@@ -92,6 +95,7 @@ const Login = ({ location }) => {
                         type="checkbox"
                         className="form-checkbox border-0 focus:ring-0 focus:ring-offset-0"
                         style={{ transition: 'all .15s ease' }}
+                        checked
                       />
                       <span className="ml-2 text-sm font-semibold text-gray-600"> {t('login.remember')}</span>
                     </label>

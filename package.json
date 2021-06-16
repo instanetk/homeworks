@@ -1,6 +1,6 @@
 {
-  "name": "ggs",
-  "version": "0.9.6",
+  "name": "HomeWorks",
+  "version": "1.0.0",
   "private": true,
   "homepage": ".",
   "dependencies": {

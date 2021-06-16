@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 input[type='text'],
 input[type='password'],
 input[type='email'],
@@ -38,4 +40,13 @@ input[type='radio'] {
 
 .active {
   @apply text-indigo-400 sm:mt-6 sm:-mr-2 sm:flex-row sm:bg-gray-900 sm:rounded-md sm:justify-start sm:ml-2 sm:items-center sm:py-2 sm:px-4;
+}
+
+.title {
+  font-family: 'Pacifico', cursive;
+  font-weight: 100;
+}
+
+.tour {
+  @apply bg-pink-500 border-pink-800 p-4 text-white;
 }

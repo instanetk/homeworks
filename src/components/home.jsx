@@ -4,6 +4,7 @@ import CardScroll from './common/cardScroll';
 import Testimonial from './common/testimonial';
 // import Carousel from './common/carousel';
 import Hero from './common/hero';
+import StepOne from './common/tour/step1';
 
 const Home = () => {
   const { t } = useTranslation();
@@ -42,6 +43,7 @@ const Home = () => {
         <Carousel />
       </div> */}
       <div className="-mt-4 sm:mt-0 sm:flex-col sm:justify-center sm:px-14">
+        <StepOne />
         <CardScroll name={t('home.category')} slug="services" which="useCategories" />
         <CardScroll name={t('home.services')} slug="schedule" which="useService" />
       </div>
@@ -71,15 +73,15 @@ const Home = () => {
               </button>
             </form> */}
             <a
-              href="tel:+1-407-801-3447"
+              href="tel:+1-407-692-4288"
               className="sm:hidden bg-green-500 hover:bg-green-600 text-green-50 px-12 py-3 text-center font-extrabold uppercase rounded-lg select-none">
               {t('home.button')}
             </a>
-            <span className="sm:hidden text-sm text-center text-gray-900 pt-6">407-801-3447</span>
+            <span className="sm:hidden text-sm text-center text-gray-900 pt-6">407-692-4288</span>
             <a
-              href="tel:+1-407-801-3447"
+              href="tel:+1-407-692-4288"
               className="hidden sm:block w-full bg-green-500 hover:bg-green-600 text-green-50  p-2 text-center font-extrabold uppercase rounded-lg select-none">
-              407-801-3447
+              407-692-4288
             </a>
           </div>
         </div>

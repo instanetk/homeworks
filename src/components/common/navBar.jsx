@@ -15,11 +15,11 @@ const NavBar = () => {
               <Link to="/">
                 <div className="sm:flex-col sm:w-70">
                   <div className="px-4 py-4 flex items-baseline select-none">
-                    <span className="text-2xl select-none">🏡</span>
-                    <h1 className="ml-2 mb-3 text-sm items-baseline text-white font-sans tracking-wide font-bold uppercase select-none">
+                    <span className="text-5xl select-none">🏡</span>
+                    <h1 className="ml-2 mb-3 text-3xl items-baseline text-white font-sans tracking-wide font-bold  select-none title">
                       {t('navBar.app')}
                     </h1>
-                    <sup className="hidden font-light text-gray-300 px-1">&trade;</sup>
+                    <sup className="font-light text-gray-300 px-1">&trade;</sup>
                   </div>
                   <div className="flex-col ml-7 sm:ml-6 -mt-4 pb-2 sm:-mt-4">
                     <span className="hidden text-xs text-gray-500 font-normal uppercase select-none">

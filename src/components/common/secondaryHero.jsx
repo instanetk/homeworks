@@ -1,6 +1,7 @@
 import React from 'react';
 import { Image, CloudinaryContext, Transformation } from 'cloudinary-react';
 import img from '../../services/imgService';
+import StepTwo from './tour/step2';
 
 const SecondaryHero = ({ text1, text2, color, image, tagline }) => {
   return (
@@ -56,6 +57,7 @@ const SecondaryHero = ({ text1, text2, color, image, tagline }) => {
           <span className="block text-white sm:text-indigo-600 xl:inline text-shadow-xl ">{text2}</span>
         </h1>
       </div>
+      <StepTwo />
     </div>
   );
 };

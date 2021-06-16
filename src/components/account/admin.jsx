@@ -7,6 +7,7 @@ import '../../styles/dateRange.css';
 import offline from '../../assets/sounds/online.m4a';
 import online from '../../assets/sounds/offline.m4a';
 import lead from '../../assets/sounds/lead.m4a';
+import StepFour from '../common/tour/step4';
 
 const Admin = ({ socket }) => {
   let isChromium = window.chrome; //Play audio only on Chrome
@@ -119,6 +120,7 @@ const Admin = ({ socket }) => {
           onCalendarClose={showCalendar}
         />
       </div>
+      <StepFour />
       <List data={schedule} onStatus={onStatus} />
     </div>
   );

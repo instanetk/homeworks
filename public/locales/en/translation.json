@@ -33,7 +33,7 @@
   "hero": {
     "1": "Home projects and ",
     "2": "remodeling services",
-    "tagline": "HomeWorks has been the choice for home renovation customers in Central Florida since 2000",
+    "tagline": "HomeWorks is the choice to find home renovation contractors",
     "button": "Book an appointement"
   },
   "testimonial": {
@@ -54,8 +54,8 @@
     "tagline": "Your good word means everything to us!"
   },
   "home": {
-    "pill1": "Free Estimates on New Installations!",
-    "pill2": "$40",
+    "pill1": "Free Estimates!",
+    "pill2": "Get $40",
     "category": "Browse by category",
     "services": "Popular services",
     "p": {
@@ -99,7 +99,7 @@
     "privacy": "Privacy Policy",
     "legal": "Legal",
     "providers": "Providers",
-    "company": "HomeWorks, LLC",
+    "company": "HomeWorks",
     "made": "Made in Orlando, FL"
   },
   "user": {
