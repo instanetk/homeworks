@@ -142,16 +142,16 @@ const AppointmentCard = ({ location, history, user }) => {
 
   return (
     <div
-      className="flex min-h-screen items-center w-full p-20 bg-cover bg-center"
+      className="sm:flex sm:min-h-screen sm:items-center w-full p-4 sm:p-20 bg-cover bg-center"
       style={{
         backgroundImage: 'url(' + img.login + ')',
       }}>
       <div id="delete" className={`${visible ? '' : 'hidden'}`}>
         <Delete id={id} onCancel={onCancel} />
       </div>
-      <div className="flex w-full mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
-        <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAPS_API_KEY} language="en" region="us">
-          <div className="w-1/2">
+      <div className="grid grid-rows-2 sm:flex w-full sm:mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
+        <div className="order-last sm:order-first w-full bg-pink-400 sm:w-1/2">
+          <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAPS_API_KEY} language="en" region="us">
             <GoogleMap
               mapContainerStyle={containerStyle}
               center={center}
@@ -162,9 +162,9 @@ const AppointmentCard = ({ location, history, user }) => {
               {/* Child components, such as markers, info windows, etc. */}
               {zoom > 8 ? <Marker position={center} /> : null}
             </GoogleMap>
-          </div>
-        </LoadScript>
-        <div className="w-1/2">
+          </LoadScript>
+        </div>
+        <div className="grid grid-rows-2 w-full sm:w-1/2">
           <div
             id="header"
             className="bg-pink-700 h-52 p-4 bg-cover bg-center relative"
