@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import Menu from './menu';
+import home from '../../assets/images/home_logo.png';
 
 const NavBar = () => {
   const [isOpen, setOpen] = useState(false);
@@ -15,7 +16,7 @@ const NavBar = () => {
               <Link to="/">
                 <div className="sm:flex-col sm:w-70">
                   <div className="px-4 py-4 flex items-baseline select-none">
-                    <span className="text-5xl select-none">🏡</span>
+                    <span className="select-none"><img src={home} alt="" className="h-14 w-14 sm:h-auto sm:w-auto" /></span>
                     <h1 className="ml-2 mb-3 text-3xl items-baseline text-white font-sans tracking-wide font-bold  select-none title">
                       {t('navBar.app')}
                     </h1>
