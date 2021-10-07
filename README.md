@@ -40,11 +40,7 @@ Learning to refactor and keep code as clean and lean as possible. Extract compon
 
 Spend a week studying the Google Maps API and integrating it with React. A lot of resourcefulness was needed here reading not only official documentation but also StackOverflow threads. Eventually, I am receiving the desired data from each request and the autocomplete function is working on the frontend. Map now zooms to address coordinates.
 
-===========
-
 ## 100 hour mark.
-
-===========
 
 ### NOTIFICATIONS:
 
@@ -66,12 +62,6 @@ Finally, allowing the administrator to click on an individual appointment to see
 
 The app is ready for production. But I need to learn about CI/CD on the go. The next 12 days are spent watching YouTube videos about Docker, GitHub Action workflows, YML and more… Finally, I have two containers, one for the front-end, one for the back-end, which generate automatically on a new push to the master branch on GitHub. Now I can continue to do continuous improvement and deployment as I release the app.
 
-===========
-
 ## 200 hour mark.
 
-===========
-
 The app is released on January 26, 2021.
-
-===========
