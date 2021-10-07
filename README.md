@@ -1,6 +1,6 @@
 # HomeWorks: a lead generation and CRM application
 
-An appointment booking and lead generation app. Sends email and SMS upon successful client adquisition. Optionally allows user to register a personal account. Syncronizes to MacOS, Zoho and Google calendars. Prevents schedule conflict and allows overlap setting.
+An appointment booking and lead generation app. Sends email and SMS upon successful client adquisition. Optionally allows user to register a personal account.
 
 ## OVERVIEW
 
@@ -9,8 +9,6 @@ My customer operates in the home services industry. My motivation was to create 
 ## STRATEGY
 
 Wanting to create credibility and a positive image for app users, the main idea was to center the user interaction on the Google Maps service. Having a Google Map dynamically offer autocompletion for the service address (narrowing the suggestions to the Central Florida area coordinates) and then centering the map’s pin on the home address would at the same time provide accurate validated data instead of poorly formatted or incomplete addresses.
-
-===========
 
 ## EXECUTION
 
